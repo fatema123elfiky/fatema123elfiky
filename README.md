@@ -10,7 +10,7 @@
     <b>This is , Fatema El-Fiky, a 2nd year undergraduate from Computer Science Cairo University
     and a Competitive Programmer (Problem solver) . you can check my handles ✨.<br>
     You can check my repositories applying fundmentals through projects.<br>My youtube channel also is attached 
-    helping my colleagues . you can also check it ✨.</br></br></b>
+    helping my colleagues , you can also check it ✨.</br></br></b>
   </em> 
  </p>
 
