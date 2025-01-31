@@ -24,7 +24,7 @@
 <div align='center'>
    
    [![CodeForces](https://img.shields.io/badge/Codeforces:Fatema_El_Fiky-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/Fatema_El-Fiky)
-   [![VJudge](https://img.shields.io/badge/VJudge:Faty-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://vjudge.net/user/Fatemaelfiky1)
+   [![Vjudge](https://img.shields.io/badge/Vjudge:Faty-445f9d?style=for-the-badge&logo=Vjudge&logoColor=white)](https://vjudge.net/user/Fatemaelfiky1)
    [![LinkedIn](https://img.shields.io/badge/LinkedIn:Fatema_Elzhraa_Elfiky-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatema-elzhraa-elfiky-b153402b2/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BO4araFR0QaaRqgKwvWR3wg%3D%3D)
  
 </div>
